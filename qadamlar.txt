@@ -7,3 +7,9 @@
 
 6. git remote add origin https://github.com/chaqimchiai-stack/3-oy-11-vazifa.git
 7. git push -u origin main
+
+
+--- Qayta yangilash
+1. git add .
+2. git commit -m "yangilik izohi"
+3. git push origin main
